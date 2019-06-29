@@ -1,0 +1,36 @@
+metacall_impl.lo: runtime/metacall_impl.c runtime/metacall_impl.h \
+  runtime/rts-common.h include/internal/metacall.h include/cilk/common.h \
+  /usr/include/assert.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h \
+  /project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/bits/wchar.h
+
+runtime/metacall_impl.h:
+
+runtime/rts-common.h:
+
+include/internal/metacall.h:
+
+include/cilk/common.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:

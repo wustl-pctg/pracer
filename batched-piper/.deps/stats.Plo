@@ -1,0 +1,153 @@
+stats.lo: runtime/stats.c runtime/stats.h include/cilk/common.h \
+  /usr/include/assert.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h \
+  /project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/bits/wchar.h runtime/rts-common.h \
+  include/internal/abi.h \
+  /project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stddef.h \
+  runtime/bug.h runtime/os.h runtime/cilk-tbb-interop.h \
+  runtime/local_state.h runtime/worker_mutex.h runtime/global_state.h \
+  include/cilk/batcher.h /usr/include/stdlib.h \
+  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+  /usr/include/endian.h /usr/include/bits/endian.h \
+  /usr/include/bits/byteswap.h /usr/include/bits/types.h \
+  /usr/include/bits/typesizes.h /usr/include/bits/byteswap-16.h \
+  /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+  /usr/include/bits/select.h /usr/include/bits/sigset.h \
+  /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+  /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+  /usr/include/bits/stdlib-float.h runtime/frame_malloc.h \
+  runtime/cilk_fiber.h runtime/spin_mutex.h runtime/cilk_malloc.h \
+  runtime/pinning.h runtime/record-replay.h runtime/signal_node.h \
+  /usr/include/setjmp.h /usr/include/bits/setjmp.h /usr/include/stdio.h \
+  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+  /project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdarg.h \
+  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+  /usr/include/bits/stdio.h /usr/include/pthread.h /usr/include/sched.h \
+  /usr/include/bits/sched.h /usr/include/xlocale.h
+
+runtime/stats.h:
+
+include/cilk/common.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+runtime/rts-common.h:
+
+include/internal/abi.h:
+
+/project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stddef.h:
+
+runtime/bug.h:
+
+runtime/os.h:
+
+runtime/cilk-tbb-interop.h:
+
+runtime/local_state.h:
+
+runtime/worker_mutex.h:
+
+runtime/global_state.h:
+
+include/cilk/batcher.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-float.h:
+
+runtime/frame_malloc.h:
+
+runtime/cilk_fiber.h:
+
+runtime/spin_mutex.h:
+
+runtime/cilk_malloc.h:
+
+runtime/pinning.h:
+
+runtime/record-replay.h:
+
+runtime/signal_node.h:
+
+/usr/include/setjmp.h:
+
+/usr/include/bits/setjmp.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/xlocale.h:

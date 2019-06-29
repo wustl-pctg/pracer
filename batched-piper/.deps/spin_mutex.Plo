@@ -1,0 +1,51 @@
+spin_mutex.lo: runtime/spin_mutex.c runtime/spin_mutex.h \
+  include/cilk/common.h /usr/include/assert.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h \
+  /project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/bits/wchar.h runtime/rts-common.h \
+  runtime/cilk_malloc.h \
+  /project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stddef.h \
+  runtime/bug.h runtime/os.h runtime/cilk-tbb-interop.h runtime/stats.h \
+  include/internal/abi.h
+
+runtime/spin_mutex.h:
+
+include/cilk/common.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+runtime/rts-common.h:
+
+runtime/cilk_malloc.h:
+
+/project/adams/home/xuyifan/ppopp18_ae/llvm-cilk/bin/../lib/clang/3.4.1/include/stddef.h:
+
+runtime/bug.h:
+
+runtime/os.h:
+
+runtime/cilk-tbb-interop.h:
+
+runtime/stats.h:
+
+include/internal/abi.h:
