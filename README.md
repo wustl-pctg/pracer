@@ -36,7 +36,7 @@ Proceedings of the 23rd Symposium on Principles and Practice of Parallel Program
 Available: https://dl.acm.org/citation.cfm?id=3178515.
 
 ## Acknowledgment
-This research was supported in part by National Science Foundation under grant number CCF-1527692, CCF-1439062, CCF-1150036, and CCF-1733873.
+This research was supported in part by National Science Foundation under grants number CCF-1527692, CCF-1439062, CCF-1150036, and CCF-1733873.
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) 
 and do not necessarily reflect the views of the National Science Foundation.
