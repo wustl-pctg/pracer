@@ -27,3 +27,16 @@ Use python script "run\_benchmark.py" to run benchmarks with certain configurati
 
 bench\_name should be one of the following: lz77, ferret, x264. configuration
 should be one of the following: base, sp, full.
+
+## Cititation
+Please use the following citiation when using this software in your work:
+
+Yifan Xu, I-Ting Angelina Lee, and Kunal Agrawal, "Efficient Parallel Determinacy Race Detection for Two-Dimensional Dags", 
+Proceedings of the 23rd Symposium on Principles and Practice of Parallel Programming (PPoPP), 2018.
+Available: https://dl.acm.org/citation.cfm?id=3178515.
+
+## Acknowledgment
+This research was supported in part by National Science Foundation under grant number CCF-1527692, CCF-1439062, CCF-1150036, and CCF-1733873.
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) 
+and do not necessarily reflect the views of the National Science Foundation.
